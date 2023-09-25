@@ -7,7 +7,7 @@ mongo = PyMongo()
 import bz2
 from urllib.request import urlopen
 from datetime import datetime
-import requests
+# import requests
 import json
   
 
